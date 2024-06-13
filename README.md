@@ -28,6 +28,11 @@ The project consists of the following main components:
 
 6. **Front-end Interface**:
    - Built with React to provide an intuitive user interface for interacting with the server and visualizing results.
+   - You can use these commands to start the Front-end
+   ```
+   npm install # using this command to build React Front-end Interface
+   npm start
+   ```
 
 ### Using C++ Headers
 
@@ -108,6 +113,7 @@ Example JSON payload:
 
 2. **Interface**:
    The front-end interface provides a user-friendly way to interact with the back-end server and visualize the results.
+![image](https://github.com/NTUFA-2024-Final-Project/Bond-Pricing-Calculator/assets/79501315/e502a8fa-fd9b-45d2-a6a7-05678d4ddd77)
 
 
 ### Usage
