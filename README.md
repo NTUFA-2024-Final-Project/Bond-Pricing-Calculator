@@ -109,7 +109,6 @@ Example JSON payload:
 2. **Interface**:
    The front-end interface provides a user-friendly way to interact with the back-end server and visualize the results.
 
-![image](https://github.com/NTUFA-2024-Final-Project/Final-Project/assets/79501315/1a3e0c9e-06e4-4e1a-ae75-b56bef1803f3)
 
 ### Usage
 
@@ -130,3 +129,10 @@ Example JSON payload:
 ## Conclusion
 
 This project provides a robust framework for constructing term structures and calibrating the Ho-Lee model. It leverages both C++ for high-performance calculations and Python for flexible data manipulation and visualization. The HTTP server interface and the React-based front-end make it easy to integrate with other systems and applications.
+
+## Demo video
+
+https://github.com/NTUFA-2024-Final-Project/Bond-Pricing-Calculator/assets/79501315/6adf6bbd-68c3-47d9-9647-2b24e7091a45
+
+
+
